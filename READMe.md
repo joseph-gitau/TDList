@@ -1,6 +1,6 @@
 Apk/Website name: **TDList**
 
-DESCRIPTION:
+**DESCRIPTION:**
 
 ```python
 This is a project to create a custom todo list website/apk that can snyc easily with your devices, and become more customizable than the default todo list apps.
@@ -8,7 +8,7 @@ This is a project to create a custom todo list website/apk that can snyc easily 
 
 **Features:**
 
-```php,html,css,js
+```php,html,css,js,tailwindcss,jquery,mysql
 - [x] Customizable
 - [x] Syncs with devices
 - [x] Easy to use
