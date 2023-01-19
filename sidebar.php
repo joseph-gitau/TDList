@@ -14,9 +14,9 @@
                 </a>
             </li>
             <li class="ml-6 my-6">
-                <a href="index.php">
-                    <span class="icon"><i class="fas fa-tasks"></i></span>
-                    <span class="title hover:text-blue-600 duration-150">Tasks</span>
+                <a class="cursor-pointer">
+                    <span class=" icon"><i class="fas fa-tasks"></i></span>
+                    <span class="title hover:text-blue-600 duration-150" id="tasks">Tasks</span>
                 </a>
             </li>
             <li class="ml-6 my-6">

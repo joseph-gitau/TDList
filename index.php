@@ -44,19 +44,19 @@
                         </div>
                     </form>
                     <!-- nw -->
-                    <div class="main-content mx-4 my-8 " id="main-content">
-                        <!-- add new task button -->
-                        <div class="add-task-btn">
-                            <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"> Add new task <i class="fas fa-plus"></i>
-                            </button>
-                        </div>
-                    </div>
+
                 </div>
                 <!-- nw -->
+                <div class="main-content mx-4 my-8 " id="main-content">
+                    <!-- add new task button -->
+                    <div class="add-task-btn">
+                        <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"> Add new task <i class="fas fa-plus"></i>
+                        </button>
+                    </div>
+                </div>
             </div>
 
         </div>
-    </div>
     </div>
 
 </body>
